@@ -1,4 +1,4 @@
-Twitter App with TwitterStream and Material Design(Angular)
+Twitter App with TwitterStream, Material Design(Angular), and Socket.io
 
 Chris Sjoblom
 MIT License

@@ -1,0 +1,20 @@
+{
+  "name": "ngTwitterApp",
+  "version": "0.0.1",
+  "authors": [
+    "Chris Sjoblom <sjoblom@uoregon.edu>"
+  ],
+  "description": "AngularJS Mat Design+twitter - Twitter Live Search",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.5.1",
+    "angular-socket-io": "~0.6.1"
+  }
+}

@@ -69,7 +69,7 @@ io.on('connection', function(socket){
             delete searches[socket.id][k];
         }
         delete searches[socket.id];
-        console.log('Removed all search from user >>' socket.id);
+        console.log('Removed all search from user >>', socket.id);
     });
 
 });
